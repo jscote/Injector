@@ -1,6 +1,6 @@
 {
   "name": "jsai-injector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description" : "Dependency injection framework, inspired by Angular",
   "author" : {
     "name" : "Jean-Sebastien Cote",
